@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👩‍💻 About Me<br><br>🔭 I'm currently working on Python and software development projects.<br><br>👯 I'm looking to collaborate on Open Source projects<br><br>💬 Ask me about Python, Java, C, HTML, CSS and MySQL.<br><br>⚡ Fun fact: I love turning ideas into projects and learning something new through coding!
+##🔭 I'm currently working on Python and software development projects.<br><br>👯 I'm looking to collaborate on Open Source projects<br><br>💬 Ask me about Python, Java, C, HTML, CSS and MySQL.<br><br>⚡ Fun fact: I love turning ideas into projects and learning something new through coding!
 
 
 ## 🌐 Socials:
